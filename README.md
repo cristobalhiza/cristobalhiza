@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristobalhiza&label=Profile%20views&color=0e75b6&style=flat" alt="Cristobal Hiza" /> </p>
 
-<p>Welcome to my GitHub profile! I'm a software developer with a passion for building web applications and learning new technologies. I love solving complex problems and sharing my knowledge with others.</p>
+<p>Welcome to my GitHub profile! I'm a web developer with a passion for building web applications and learning new technologies. I love solving complex problems and sharing my knowledge with others.</p>
 
-- 🔭 I’m currently working on **Court Corner** - A platform to manage court reservations and events for sports clubs and community centers.
+- 🔭 I’m currently working on **Court Corner** - A platform to manage court reservations, shop and events for sports clubs and community centers.
 
 - 🌱 I’m currently learning **React** at Coderhouse to enhance my frontend development skills.
 
