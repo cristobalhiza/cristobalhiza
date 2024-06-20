@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React** at Coderhouse to enhance my frontend development skills.
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://cristobalhiza.wixsite.com/portafolio).
+- 👨‍💻 All of my projects are available at [my portfolio](https://cristobalhiza.wixsite.com/portfolio).
 
 - 📫 How to reach me: **cristobalhiza@gmail.com**
 
@@ -44,7 +44,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalhiza&show_icons=true&locale=en&layout=compact" alt="Cristobal Hiza Top Languages" />
 </p>
 
-<h3 align="left">Badges:</h3>
+<h3 align="left" display="none">Badges:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
