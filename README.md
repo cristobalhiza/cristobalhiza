@@ -34,8 +34,9 @@
 
 <h3 align="left">Notable Projects:</h3>
 <ul>
-  <li><strong><a href="https://github.com/cristobalhiza/ProyectoFinal-Hiza-Js">Parque Nacional Kalfú</a></strong> - Sitio Web Parque Nacional.</li>
+<li><strong><a href="https://github.com/cristobalhiza/proyectoFinalReact-Hiza">Court Corner</a></strong> - Tienda online especializada en artículos de tenis y padel, E-commerce.</li>
   <li><strong><a href="https://github.com/cristobalhiza/SyN-Abogados">SyN Abogados</a></strong> - Sitio Web Estudio de Abogados, Landing Page.</li>
+<li><strong><a href="https://github.com/cristobalhiza/ProyectoFinal-Hiza-Js">Parque Nacional Kalfú</a></strong> - Sitio Web Reservas Parque Nacional.</li>
 </ul>
 
 <h3 align="left">GitHub Stats:</h3>
