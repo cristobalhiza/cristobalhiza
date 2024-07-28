@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Court Corner** - A platform to manage court reservations, shop and events for sports clubs and community centers.
 
-- 🌱 I’m currently learning **React** at Coderhouse to enhance my frontend development skills.
+- 🌱 I’m currently learning **Backend Development** and **Wordpress** at Coderhouse.
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://cristobalhiza.wixsite.com/portfolio).
 
