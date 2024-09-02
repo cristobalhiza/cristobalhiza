@@ -38,7 +38,7 @@
 <h3 align="left">Notable Projects:</h3>
 <ul>
   <li>
-    <strong><a href="https://live.serenity-coffee-roasters.pantheonsite.io/">Serenity Coffee Roasters</a></strong> - Coffee roasters website, featuring information about their products and online store.
+    <strong><a href="https://live-serenity-coffee-roasters.pantheonsite.io/">Serenity Coffee Roasters</a></strong> - Coffee roasters website, featuring information about their products and online store.
   </li>
   <li>
     <strong><a href="https://github.com/cristobalhiza/proyectoFinalReact-Hiza">Court Corner</a></strong> - Online store specializing in tennis and padel equipment, E-commerce.
