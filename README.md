@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Backend Development** at Coderhouse.
 
-- 👨‍💻 Explore my projects and skills in more detail on [**my portfolio**](https://cristobalhiza.wixsite.com/portfolio).
+- 👨‍💻 Explore my projects and skills in more detail on [**my portfolio**](https://cristobalhiza.com).
 
-- 📫 How to reach me: **cristobalhiza@gmail.com**
+- 📫 How to reach me: **developer@cristobalhiza.com** / **cristobalhiza@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/)
 
