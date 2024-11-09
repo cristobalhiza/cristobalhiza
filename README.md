@@ -4,7 +4,7 @@
 
 <p>Welcome to my GitHub profile! As a web developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
 
-- 🔭 I’m currently working on **Court Corner** - A platform to manage court reservations, shop and events for sports clubs and community centers.
+- 🔭 I’m currently working on **templadesign.cl**.
 
 - 🌱 I’m currently learning **Backend Development** at Coderhouse.
 
