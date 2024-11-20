@@ -4,13 +4,13 @@
 
 <p>Welcome to my GitHub profile! As a web developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
 
-- 🔭 I’m currently working on **templadesign.cl**.
+- 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
 
 - 🌱 I’m currently learning **Backend Development** at Coderhouse.
 
 - 👨‍💻 Explore my services, projects and skills in more detail on [**my profesional website**](https://cristobalhiza.com).
 
-- 📫 How to reach me: **developer@cristobalhiza.com** / **cristobalhiza@gmail.com**
+- 📫 How to reach me: **contacto@cristobalhiza.com** / **cristobalhiza@gmail.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/)
 
