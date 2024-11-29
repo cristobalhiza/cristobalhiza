@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
 
-- 🌱 I’m currently learning **Next Js** at DevTalles.
+- 🌱 I’m currently learning **Next Js** at DevTalles and Mobile App Development (Android) at desafiolatam.cl
 
 - 👨‍💻 Explore my services, projects and skills in more detail on [**my profesional website**](https://cristobalhiza.com).
 
