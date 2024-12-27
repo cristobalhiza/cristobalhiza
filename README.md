@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristobal Hiza</h1>
+![imagen](https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5)<h1 align="center">Hi 👋, I'm Cristobal Hiza</h1>
 <h3 align="center">A web developer based in Chile :chile:, committed to learning and developing meaningful applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristobalhiza&label=Profile%20views&color=C2274B&style=flat" alt="Cristobal Hiza" /> </p>
 
@@ -16,10 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cristobal-hiza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Cristobal Hiza LinkedIn" height="30" width="40" /></a>
-<a href="mailto:cristobalhiza@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Cristobal Hiza Gmail" height="30" width="40" /></a>
-<a href="https://cristobalhiza.wixsite.com/portfolio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" alt="Cristobal Hiza Portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristobal-hiza/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Cristobal Hiza LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:cristobalhiza@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Cristobal Hiza Gmail" height="30" width="40" />
+</a>
+<a href="https://cristobalhiza.wixsite.com/portfolio" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3649/3649466.png" alt="Cristobal Hiza Portfolio" height="30" width="40" />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -33,6 +40,13 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+</a>
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Notable Projects:</h3>
@@ -62,6 +76,8 @@
 
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
