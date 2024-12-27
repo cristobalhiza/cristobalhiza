@@ -2,7 +2,7 @@
 <h3 align="center">A web developer based in Chile :chile:, committed to learning and developing meaningful applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristobalhiza&label=Profile%20views&color=C2274B&style=flat" alt="Cristobal Hiza" /> </p>
 
-<p>Welcome to my GitHub profile! As a web developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
+<p>Welcome to my GitHub profile! As a web and software developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
 
 - 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
 
