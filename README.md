@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5)<h1 align="center">Hi 👋, I'm Cristobal Hiza</h1>
+<h1 align="center">Hi 👋, I'm Cristobal Hiza</h1>
 <h3 align="center">A web developer based in Chile :chile:, committed to learning and developing meaningful applications</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristobalhiza&label=Profile%20views&color=C2274B&style=flat" alt="Cristobal Hiza" /> </p>
 
@@ -23,7 +23,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Cristobal Hiza Gmail" height="30" width="40" />
 </a>
 <a href="https://cristobalhiza.wixsite.com/portfolio" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3649/3649466.png" alt="Cristobal Hiza Portfolio" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5" alt="Cristobal Hiza Portfolio" height="30" width="40" />
 </a>
 </p>
 
