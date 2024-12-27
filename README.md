@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
 
-- 🌱 I’m currently learning **Next Js** at DevTalles and Mobile App Development (Android) at desafiolatam.cl
+- 🌱 I’m currently learning **Next Js** at DevTalles
 
 - 👨‍💻 Explore my services, projects and skills in more detail on [**my profesional website**](https://cristobalhiza.com).
 
@@ -19,20 +19,19 @@
 <a href="https://www.linkedin.com/in/cristobal-hiza/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Cristobal Hiza LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:cristobalhiza@gmail.com" target="blank">
+<a href="mailto:contacto@cristobalhiza.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Cristobal Hiza Gmail" height="30" width="40" />
 </a>
 <a href="https://cristobalhiza.wixsite.com/portfolio" target="blank">
-    <img align="center" src="https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5" alt="Cristobal Hiza Portfolio" height="30" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5" alt="Cristobal Hiza Portfolio" height="40" width="40" />
 </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://i.ibb.co/L0RxWXG/tailwind.png" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -66,14 +65,11 @@
 </ul>
 <p align="center">Thanks for visiting! Feel free to reach out if you'd like to collaborate or just chat about web development. I'm always open to new opportunities and connections.</p>
 
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristobalhiza&show_icons=true&locale=en" alt="Cristobal Hiza GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalhiza&show_icons=true&locale=en&layout=compact" alt="Cristobal Hiza Top Languages" />
 </p>
-
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
