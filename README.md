@@ -35,16 +35,18 @@
 
 <h3 align="left">Connect with me / Conecta conmigo:</h3>
 <p align="left">
+Agrega:
   <a href="https://www.linkedin.com/in/cristobal-hiza/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Cristobal Hiza LinkedIn" height="30" width="40" />
   </a>
+Escribe:
   <a href="mailto:contacto@cristobalhiza.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Cristobal Hiza Gmail" height="30" width="40" />
   </a>
-  <a href="https://cristobalhiza.wixsite.com/portfolio" target="blank">
-    <img align="center" src="https://github.com/user-attachments/assets/73acc65b-10c7-420b-b498-fda3414131d5" alt="Cristobal Hiza Portfolio" height="40" width="40" />
-  </a>
-</p>
+Visita:
+<a href="https://cristobalhiza.com" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Cristobal Hiza Portfolio" height="40" width="40" />
+</a>
 
 ---
 
