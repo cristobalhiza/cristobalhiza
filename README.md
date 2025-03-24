@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
 
-- 🌱 I’m currently learning **Next Js** at DevTalles.
+- 🌱 I’m currently learning **C#** at EducaciónIT.
 
 - 👨‍💻 Explore my services, projects, and skills in more detail on [**my professional website**](https://cristobalhiza.com).
 
@@ -23,7 +23,7 @@
 
 - 🔭 Actualmente estoy trabajando en [**Templa**](https://templadesign.cl/inicio). Sitio web de un estudio de diseño y construcción de espacios.
 
-- 🌱 Actualmente estoy aprendiendo **Next Js** en DevTalles.
+- 🌱 Actualmente estoy aprendiendo **C#** en EducaciónIt.
 
 - 👨‍💻 Explora mis servicios, proyectos y habilidades en detalle en [**mi sitio web profesional**](https://cristobalhiza.com).
 
