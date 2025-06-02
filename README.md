@@ -5,9 +5,9 @@
 
 <p>Welcome to my GitHub profile! As a web and software developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
 
-- 🔭 I’m currently working on [**Templa**](https://templadesign.cl/inicio). Space design and construction studio website.
+- 🔭 I’m currently working on [**Mentalfy**](https://mentalfy.cl). Mental Health center and bookings managment dashboard.
 
-- 🌱 I’m currently learning **C#** at EducaciónIT.
+- 🌱 I’m currently learning **PHP** and **Laravel** at EducaciónIT.
 
 - 👨‍💻 Explore my services, projects, and skills in more detail on [**my professional website**](https://cristobalhiza.com).
 
@@ -21,7 +21,7 @@
 
 <p>¡Bienvenido a mi perfil de GitHub! Como desarrollador de software y web, me encanta construir aplicaciones que resuelvan problemas reales y mejoren la experiencia del usuario. Siempre estoy dispuesto a aprender nuevas tecnologías y compartir mi recorrido con los demás.</p>
 
-- 🔭 Actualmente estoy trabajando en [**Templa**](https://templadesign.cl/inicio). Sitio web de un estudio de diseño y construcción de espacios.
+- 🔭 Actualmente estoy trabajando en [**Mentalfy**](https://mentalfy.cl). Sitio web de centro de salud mental y backend para reservas.
 
 - 🌱 Actualmente estoy aprendiendo **C#** en EducaciónIt.
 
