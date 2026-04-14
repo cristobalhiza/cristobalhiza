@@ -1,113 +1,83 @@
-<h1 align="center">Hi 👋, I'm Cristobal Hiza</h1>
-<h3 align="center">A developer based in Chile :chile:, committed to learning and developing meaningful applications</h3>
-
+<h1 align="center">Hi, I'm Cristobal Hiza</h1>
+<h3 align="center">Technology Consultant | Full Stack Developer based in Chile :chile:</h3>
 <h3 id="english">🌐 English Version</h2>
 
-<p>Welcome to my GitHub profile! As a web and software developer, I thrive on building applications that solve real-world problems and enhance user experiences. I'm always eager to learn new technologies and share my journey with others.</p>
+<p>Welcome to my GitHub profile! I am a developer focused on building minimalist and efficient solutions. I specialize in the MERN stack, PHP (Timber/Twig), and modernizing digital infrastructures through clean, maintainable code.</p>
 
-- 🔭 I’m currently working on [**Mentalfy**](https://mentalfy.cl). Mental Health center and bookings managment dashboard.
-
-- 🌱 I’m currently learning **PHP** and **Laravel** at EducaciónIT.
-
-- 👨‍💻 Explore my services, projects, and skills in more detail on [**my professional website**](https://cristobalhiza.com).
-
-- 📫 How to reach me: **contacto@cristobalhiza.com** / **cristobalhiza@gmail.com**.
-
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/).
+- 🔭 I’m currently working on [**abcconduccion**](https://abcconduccion.cl) (MVC driving school platform).
+- 🎓 Developing and managing LMS platforms: [**NLESSBEAUTY Academy**](https://browartistacademy.com).
+- ⚡ Managing technical operations for [**CultivArte Kombucha**](https://cultivarte.cl).
+- 🌱 Exploring **LLM Local Integration** and advanced automation.
+- 👨‍💻 Portfolio: [**cristobalhiza.com**](https://cristobalhiza.com).
+- 📫 Reach me: **contacto@cristobalhiza.com**.
+- 📄 Professional Network: [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/).
 
 ---
 
 <h3 id="español">🌐 Versión en Español</h2>
 
-<p>¡Bienvenido a mi perfil de GitHub! Como desarrollador de software y web, me encanta construir aplicaciones que resuelvan problemas reales y mejoren la experiencia del usuario. Siempre estoy dispuesto a aprender nuevas tecnologías y compartir mi recorrido con los demás.</p>
+<p>¡Bienvenido! Soy un desarrollador enfocado en crear soluciones minimalistas y eficientes. Me especializo en el stack MERN, PHP moderno (Timber/Twig) y la optimización de infraestructuras digitales mediante código limpio y mantenible.</p>
 
-- 🔭 Actualmente estoy trabajando en [**Mentalfy**](https://mentalfy.cl). Sitio web de centro de salud mental y backend para reservas.
-
-- 🌱 Actualmente estoy aprendiendo **C#** en EducaciónIt.
-
-- 👨‍💻 Explora mis servicios, proyectos y habilidades en detalle en [**mi sitio web profesional**](https://cristobalhiza.com).
-
-- 📫 Cómo contactarme: **contacto@cristobalhiza.com** / **cristobalhiza@gmail.com**.
-
-- 📄 Conoce más sobre mis experiencias en [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/).
+- 🔭 Actualmente trabajando en [**abcconduccion**](https://abcconduccion.cl) (Arquitectura MVC para escuela de conductores).
+- 🎓 Desarrollo y gestión de plataformas LMS: [**NLESSBEAUTY Academy**](https://browartistacademy.com).
+- ⚡ Dirección técnica y comercial en [**CultivArte Kombucha**](https://cultivarte.cl).
+- 🌱 Profundizando en **Integración de LLMs locales** y automatización de procesos.
+- 👨‍💻 Visita mi sitio: [**cristobalhiza.com**](https://cristobalhiza.com).
+- 📫 Contacto: **contacto@cristobalhiza.com**.
+- 📄 Conecta conmigo: [LinkedIn](https://www.linkedin.com/in/cristobal-hiza/).
 
 ---
 
 <h3 align="left">Connect with me / Conecta conmigo:</h3>
 <p align="left">
-Agrega:
   <a href="https://www.linkedin.com/in/cristobal-hiza/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Cristobal Hiza LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
   </a>
-Escribe:
   <a href="mailto:contacto@cristobalhiza.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Cristobal Hiza Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" />
   </a>
-Visita:
-<a href="https://cristobalhiza.com" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Cristobal Hiza Portfolio" height="40" width="40" />
-</a>
+</p>
 
 ---
 
 <h3 align="left">Languages and Tools / Lenguajes y Herramientas:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://i.ibb.co/L0RxWXG/tailwind.png" alt="TailwindCSS" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-</a>
-<a href="https://developer.android.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 <h3 align="left">Notable Projects / Proyectos Destacados:</h3>
 <ul>
   <li>
-    <strong><a href="https://github.com/cristobalhiza/movie-app">Movie App</a></strong> - Mobile Android application developed in Kotlin and Jetpack Compose, allowing users to explore popular movies by genre, search dynamically, save favs, and access offline. It uses MVVM architecture, Room for local storage, and Retrofit for API consumption.  
-   :chile: Aplicación móvil de Android desarrollada en Kotlin y Jetpack Compose, que permite explorar películas populares, buscar por género, guardar favoritas y acceder sin conexión. Usa arquitectura MVVM, Room para persistencia y Retrofit para consumo de API.
+    <strong><a href="https://browartistacademy.com">NLESSBEAUTY Academy</a></strong> - Professional LMS platform featuring automated certification and international payment gateways.
+    <br><em>Plataforma educativa LMS profesional con generación automatizada de certificados e integración de pagos internacionales.</em>
   </li>
   <li>
-    <strong><a href="https://github.com/cristobalhiza/pet-cloud">Pet Cloud</a></strong> - Web SPA for managing pets and events, built with Next.js, TypeScript, and Firebase Firestore. It allows users to manage pets, create events, and sync them with Google Calendar. The interface is responsive and styled with TailwindCSS.  
-   :chile: Aplicación web de administración de mascotas y eventos con Next.js, TypeScript y Firebase Firestore. Permite gestionar mascotas, eventos y sincronizar con Google Calendar. Estilo responsive con TailwindCSS.
+    <strong><a href="https://abcconduccion.cl">abcconduccion</a></strong> - Custom web platform for a driving school using a modular MVC architecture.
+    <br><em>Plataforma personalizada para escuela de conductores bajo arquitectura MVC.</em>
   </li>
   <li>
-    <strong><a href="https://github.com/cristobalhiza/proyectoFinalReact-Hiza">Court Corner</a></strong> - Online store specializing in tennis and padel equipment (E-commerce).  
-    :chile: Tienda en línea especializada en equipos de tenis y pádel (E-commerce).
+    <strong><a href="https://github.com/cristobalhiza/pet-cloud">Pet Cloud</a></strong> - Web SPA for managing pets and events, built with Next.js, TypeScript, and Firebase.
+    <br><em>Aplicación web de administración de mascotas y eventos con Next.js, TypeScript y Firebase Firestore.</em>
   </li>
   <li>
-    <strong><a href="https://live-serenity-coffee-roasters.pantheonsite.io/">Serenity Coffee Roasters</a></strong> - Coffee roasters website, featuring product information and an online store.  
-    Sitio web de una tostadora de café, con información de productos y tienda en línea.
-  </li>
-  <li>
-    <strong><a href="https://github.com/cristobalhiza/SyN-Abogados">SyN Abogados</a></strong> - Website for a law firm.  
-    Sitio web para un bufete de abogados.
-  </li>
-  <li>
-    <strong><a href="https://github.com/cristobalhiza/ProyectoFinal-Hiza-Js">Parque Nacional Kalfú</a></strong> - Website for booking reservations at Kalfú National Park.  
-    Sitio web para reservar en el Parque Nacional Kalfú.
+    <strong><a href="https://mentalfy.cl">Mentalfy</a></strong> - Health center management dashboard and booking system.
+    <br><em>Dashboard de gestión para centros de salud y sistema de reservas.</em>
   </li>
 </ul>
+<p align="center"><em>Nuestra labor no es demostrar cuánta complejidad podemos manejar, sino cuánta podemos evitar.</em></p>
 ---
 
 <h3 align="left">GitHub Stats / Estadísticas de GitHub:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalhiza&layout=pie&theme=radical" alt="Cristobal Hiza Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristobalhiza&show_icons=true&locale=en&theme=radical&hide=issues,contribs" alt="Cristobal Hiza GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalhiza&layout=pie&theme=radical" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristobalhiza&show_icons=true&locale=en&theme=radical&hide=issues,contribs" alt="Stats" />
 </p>
-
----
-
-<p align="center">Thanks for visiting! Feel free to reach out if you'd like to collaborate or just chat about web development. I'm always open to new opportunities and connections.</p>
-
-<p align="center">¡Gracias por visitar! No dudes en ponerte en contacto si te gustaría colaborar o simplemente hablar sobre programación. Siempre estoy abierto a nuevas oportunidades y conexiones.</p>
