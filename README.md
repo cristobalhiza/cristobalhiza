@@ -84,4 +84,4 @@ Construyo los sistemas detrás de los equipos comerciales: implementaciones de C
   <img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="180"/>
 </p>
 
-<p align="center"><em>Mi norte no está en cuánta complejidad puedo manejar, sino en cuánta puedo evitar.</em></p>
+<p align="center"><em>Mi norte no está en cuánta complejidad puedo manejar, sino en cuánta puedo evitar.</em><br><em>I don't measure myself by how much complexity I can handle, but by how much I can avoid.</em></p>
