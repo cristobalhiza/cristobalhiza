@@ -26,6 +26,14 @@ Construyo los sistemas detrás de los equipos comerciales: implementaciones de C
 
 <ul>
   <li>
+    <strong>HubSpot Implementations</strong> <sub>🔒 private</sub> — In-house system to implement HubSpot repeatably: pull assets from a portal into a library with their dependencies, edit them and deploy them to other portals (properties, pipelines, lists, forms, association labels, dashboards and workflows, including leads and custom objects), with traceability of where everything came from and where it landed.
+    <br><em>Sistema propio para implementar HubSpot de forma repetible: trae assets de un portal a una biblioteca con sus dependencias, permite editarlos y desplegarlos en otros portales (propiedades, pipelines, listas, formularios, labels de asociación, dashboards y workflows, incluidos leads y objetos custom), con trazabilidad de dónde salió y dónde quedó cada cosa.</em>
+  </li>
+  <li>
+    <strong>Campaign Hub</strong> <sub>🔒 private</sub> — Internal app to run outbound lead gen for agency clients: partners, campaigns with ICP, a Kanban board for weekly prospecting quotas, and live metrics from Instantly, Prosp and HubSpot via webhooks. PHP 8, MariaDB and React, migrated from Node.js and Google Sheets.
+    <br><em>App interna para gestionar el lead gen outbound de los clientes de la agencia: partners, campañas con ICP, tablero Kanban de cuotas semanales y métricas en tiempo real de Instantly, Prosp y HubSpot vía webhooks. PHP 8, MariaDB y React, migrada desde Node.js y Google Sheets.</em>
+  </li>
+  <li>
     <strong><a href="https://github.com/cristobalhiza/secure-env-skill">secure-env-skill</a></strong> — Keeps <code>.env</code> secrets out of coding agents' context: pre-run blocking, output redaction and tools to use credentials without seeing them. Tested on Linux, macOS and Windows.
     <br><em>Protege los secretos de los <code>.env</code> frente a agentes de código: bloqueo previo, redacción de salidas y herramientas para usar credenciales sin verlas. Probada en Linux, macOS y Windows.</em>
   </li>
@@ -38,7 +46,7 @@ Construyo los sistemas detrás de los equipos comerciales: implementaciones de C
     <br><em>Tema WooCommerce a medida con Timber v2, Tailwind v4 y Alpine: carrito con la Store API y filtros sin plugins.</em>
   </li>
   <li>
-    <strong><a href="https://browartistacademy.com">NLESSBEAUTY Academy</a></strong> — LMS platform with automated certificates and international payments.
+    <strong><a href="https://nlessbeautyacademy.com">NLESSBEAUTY Academy</a></strong> — LMS platform with automated certificates and international payments.
     <br><em>Plataforma LMS con certificados automatizados y pagos internacionales.</em>
   </li>
   <li>
