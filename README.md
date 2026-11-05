@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Cristobal Hiza</h1>
-<h3 align="center">RevOps & GTM Engineer · Automation & AI · Full Stack Developer — Santiago, Chile 🇨🇱</h3>
+<h3 align="center">RevOps & GTM Engineer · Automation & AI — Santiago, Chile 🇨🇱</h3>
 <p align="center"><a href="#english">English</a> · <a href="#español">Español</a></p>
 
 <h2 id="english">🌐 English</h2>
 
-I build the systems behind revenue teams: CRM implementations, outbound pipelines, workflow automation and the AI agents that run them. My latest role is **RevOps & GTM Engineer at Saravá**, where most of the job turned into development: n8n flows, HubSpot setups, B2B lead gen and Claude Code skills and plugins. Before that, full stack web work (MERN, PHP with Timber/Twig, WooCommerce), which I still do.
+I build the systems behind revenue teams: CRM implementations, outbound pipelines, workflow automation and the AI agents that run them. My latest role is **RevOps & GTM Engineer at Saravá**, where most of the job turned into development: n8n flows, HubSpot setups, B2B lead gen and Claude Code skills and plugins. I also build web projects with WordPress/WooCommerce and React.
 
 - ⚙️ **RevOps / GTM:** HubSpot implementations, n8n automations, outbound with Apollo, Clay, Instantly and Prosp.
 - 🤖 **AI agents:** skills and plugins for Claude Code, local LLMs (Ollama).
@@ -13,7 +13,7 @@ I build the systems behind revenue teams: CRM implementations, outbound pipeline
 
 <h2 id="español">🌐 Español</h2>
 
-Construyo los sistemas detrás de los equipos comerciales: implementaciones de CRM, pipelines de prospección, automatización de procesos y los agentes de IA que los operan. Mi último cargo es **RevOps & GTM Engineer en Saravá**, donde gran parte del trabajo terminó siendo desarrollo: flujos en n8n, implementaciones de HubSpot, lead gen B2B y skills y plugins para Claude Code. Antes, desarrollo web full stack (MERN, PHP con Timber/Twig, WooCommerce), que sigo haciendo.
+Construyo los sistemas detrás de los equipos comerciales: implementaciones de CRM, pipelines de prospección, automatización de procesos y los agentes de IA que los operan. Mi último cargo es **RevOps & GTM Engineer en Saravá**, donde gran parte del trabajo terminó siendo desarrollo: flujos en n8n, implementaciones de HubSpot, lead gen B2B y skills y plugins para Claude Code. También desarrollo proyectos web con WordPress/WooCommerce y React.
 
 - ⚙️ **RevOps / GTM:** implementaciones de HubSpot, automatizaciones en n8n, outbound con Apollo, Clay, Instantly y Prosp.
 - 🤖 **Agentes de IA:** skills y plugins para Claude Code, LLMs locales (Ollama).
