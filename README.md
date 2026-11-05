@@ -80,7 +80,6 @@ Construyo los sistemas detrás de los equipos comerciales: implementaciones de C
 <h3>GitHub Stats / Estadísticas de GitHub</h3>
 <p>
   <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" height="180"/>
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most commit language" height="180"/>
   <img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="180"/>
 </p>
 
