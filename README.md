@@ -84,4 +84,4 @@ Construyo los sistemas detrás de los equipos comerciales: implementaciones de C
   <img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="180"/>
 </p>
 
-<p align="center"><em>Nuestra labor no es demostrar cuánta complejidad podemos manejar, sino cuánta podemos evitar.</em></p>
+<p align="center"><em>Mi labor no es demostrar cuánta complejidad puedo manejar, sino cuánta puedo evitar.</em></p>
